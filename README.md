@@ -2,6 +2,7 @@
 Skeleton of structure of a html website.
 
 Based in Origamid Courses - Web Design.
+
 ------------
 Fonts:
 - http://getskeleton.com/
